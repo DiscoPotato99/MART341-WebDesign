@@ -1,0 +1,6 @@
+[CrunchyRoll](https://www.crunchyroll.com/home/queue)
+[Netflix](https://www.netflix.com/browse)
+[Vudu](https://www.vudu.com/content/movies/movieslist?SORT_ORDER=Top%2520Picks&minVisible=35)
+The relationship between IP Addresses and the DNS is that an IP address is a location of a website or a computer and if I try to reach a certain website then my IP address will ask the DNS for the IP address of that website and it either already has the information or it reaches out to other DNS systems to then save the information of what IP address that website is then linked to
+A cookie is a file stored on your computer
+Three essential parts of a URL are the Domain, the Path, and the File
