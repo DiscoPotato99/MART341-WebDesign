@@ -1,0 +1,1 @@
+I decided to take a look at Netflix. it looked extremely old. The buttons were the typical grey popped out click on me buttons. It also was showcaseing the Wii. PS3, and Xbox-360 as platforms to use netflix on. The 
