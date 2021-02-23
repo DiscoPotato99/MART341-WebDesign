@@ -1,0 +1,3 @@
+* Typically in an HTML document you only have one head and one body element. The head contains metadata that isn't visible to your readers/viewers, while the body contains all that is visible.
+* Structual markup is used to define things such as the head, body, or paragraph while Semantic markup is used to put emphasis, or extra information within a sentance.
+* My work cycle was alot of jumping around the breakdown and figuring out what recipe i should use, but i knew it was gonna be a Sour Cream Brownie recipe.(if you haven't tried one before then use the recipe i sent) But over all i didn't find it too challengeing this week.
