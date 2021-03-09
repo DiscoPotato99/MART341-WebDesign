@@ -1,0 +1,3 @@
+* Id's are identifying tools that identify different styles while classes help identify similar styles to group things together. Divs and Spans are used for the same thing, but spans are only used when you need to put a div inside a div- you would then use a span
+* the main things i can think about is that by using youtube it allows us to save space in our files by pulling from the web, but you're pulling from the web so if a video were to get changed then what you have might also be changed
+* This week I was trying to figure out why my audio and video weren't loading but I found out I ALSO didn't grab the embed link i only grabed the basic URL on both the Youtube Video and the soundcloud audio link. Other than that it was pretty easy to follow
