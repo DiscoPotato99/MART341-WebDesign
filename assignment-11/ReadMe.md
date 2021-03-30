@@ -1,0 +1,3 @@
+* System fonts are fonts that are installed on your computer. Web-safe fonts are fonts that are installed by defalt on everyones computer and wb fonts are fonts that are not installed, but can be.
+* It is important because if you put in a web font instead of a web-safe font, then people who don't have the web font can still see the text that you want desplayed.
+* This week I've been catching up on assignments for all of my classes and hope that I can finish the semester strong. For this assignment I didn't know what fonts to go with so I just used the same as you had in the example, hope you enjoy the book though- it's an amazing read!
