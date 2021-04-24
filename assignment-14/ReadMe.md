@@ -1,0 +1,4 @@
+* I decided to stick with the basics and use bootstrap
+* I decided to use local file, that way i knew that I could get things to work. 
+* HTML 5 has been proven to make the web more secure, more adaptabl, and more efficient 
+* For the free response I mainly jsut need to apologize for not getting to this sooner. I've been pretty swamped with the end of the semester around the corner, and I've had computer troubles that doesn't really help that. But For the most part I tried to change a few things up from last week such as the images and the wesite links attached, but I left the filler script that you had used.
