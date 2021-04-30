@@ -1,4 +1,3 @@
-* I decided to stick with the basics and use bootstrap
-* I decided to use local file, that way i knew that I could get things to work. 
-* HTML 5 has been proven to make the web more secure, more adaptabl, and more efficient 
-* For the free response I mainly jsut need to apologize for not getting to this sooner. I've been pretty swamped with the end of the semester around the corner, and I've had computer troubles that doesn't really help that. But For the most part I tried to change a few things up from last week such as the images and the wesite links attached, but I left the filler script that you had used. I ended up just useing your image on the Art page to save some time, hope that was ok.
+* Every single thing I learned in this class was completely new to me.
+* I have taken many art classes and have loved designing things, although I diddn't go all out with most of the projects I now know how to (or at least have examples I can refer back to) if I ever want to make another website from scratch
+* This whole class was super fun. i was challenged a lot, but still loved working with my roomate or co-workers to help get things done.
