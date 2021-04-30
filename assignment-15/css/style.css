@@ -6,7 +6,7 @@
     padding-bottom: 300px;
 }
 body{
-    background-color: beige;
+    background-color: rgb(161, 101, 136);
 }
 div{
     text-align: left;
@@ -44,6 +44,7 @@ table{
 
 p{
     font-family:  Merriweather, sans-serif;
+    font-size: 20px;
 }
 
 /* Set your header design: */
